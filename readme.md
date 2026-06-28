@@ -84,6 +84,7 @@ Argentina | Poblacion: 45,376,763 | Superficie: 2,780,400 km2 | Continente: Amé
 
 link video....
 
-## Documentación PDF
+## Documentación PDF y github
+https://github.com/aics11/-Gesti-n-de-Datos-de-Pa-ses-en-Python-filtros-ordenamientos-y-estad-sticas.git
 
-Adjunta al zip
+Adjunto al zip
