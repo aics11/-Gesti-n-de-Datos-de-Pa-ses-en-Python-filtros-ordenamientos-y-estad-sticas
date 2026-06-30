@@ -24,6 +24,7 @@ def cargar_csv(directorio):
     except FileNotFoundError:
         print(f"Error: no se encontro el archivo {directorio}.")
     return paises
+
 def agregar_pais(paises):
     """Agrega un nuevo pais a la lista."""
     print("\n--- Agregar Pais ---")
