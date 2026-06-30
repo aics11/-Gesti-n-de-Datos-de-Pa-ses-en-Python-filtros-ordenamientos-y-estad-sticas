@@ -3,7 +3,7 @@
 **Tecnicatura Universitaria en Programación a Distancia**  
 **Materia:** Programación 1  
 **Institución:** UTN  
-**Integrantes:** Torres Ruben Alejandro, Maria de los Milagros Luggren  
+**Integrantes:** Torres Ruben Alejandro 
 **Fecha de entrega:** 29 de junio de 2026  
 
 ---
